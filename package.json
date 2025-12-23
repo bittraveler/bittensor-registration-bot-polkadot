@@ -12,6 +12,6 @@
   },
   "dependencies": {
     "@polkadot/api": "^16.5.4",
-    "dot-env-syncer": "^9.12.2"
+    "dot-env-syncer": "^9.12.3"
   }
 }
